@@ -1,3 +1,5 @@
+<p>From Żaneta Jażdżyk: Some experiments with Gatsby + Firestore + GraphQL </p>
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
